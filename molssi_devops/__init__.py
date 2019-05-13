@@ -7,7 +7,6 @@ Package containing useful math functions
 from .molssi_math import mean, canvas
 from .util import title_case
 
-=======
 from .molssi_math import *
 from .util import *
 # Handle versioneer
