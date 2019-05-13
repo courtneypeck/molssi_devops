@@ -5,7 +5,7 @@ Package containing useful math functions
 
 # Add imports here
 from .molssi_math import *
-
+from .util import *
 # Handle versioneer
 from ._version import get_versions
 versions = get_versions()
