@@ -7,6 +7,8 @@ molssi_devops
 
 Package containing useful math functions
 
+This is under development. Use "pip install -e . to" include packages in molssi_devops environment. 
+
 ### Copyright
 
 Copyright (c) 2019, Courtney Peck
